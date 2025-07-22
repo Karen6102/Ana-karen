@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tGrDaMTkJtFOG-aofNS_-27" value="&lt;strong data-end=&quot;2120&quot; data-start=&quot;2104&quot;&gt;Ruta Crítica&lt;/strong&gt;:&lt;br data-end=&quot;2124&quot; data-start=&quot;2121&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;2162&quot; data-start=&quot;2124&quot;&gt;Inicio → A → F → G → H → C → Final&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="460" width="330" height="30" as="geometry" />
+          <mxGeometry x="200" y="440" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
