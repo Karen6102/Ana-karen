@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Página-1" id="_N8l1TYkCMnesz-izroB">
-    <mxGraphModel>
+    <mxGraphModel dx="864" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-1" target="tGrDaMTkJtFOG-aofNS_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-2" target="tGrDaMTkJtFOG-aofNS_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-2" value="A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="265" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-3" target="tGrDaMTkJtFOG-aofNS_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-3" value="D" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="65" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-4" target="tGrDaMTkJtFOG-aofNS_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-4" value="E" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-5" target="tGrDaMTkJtFOG-aofNS_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-5" target="tGrDaMTkJtFOG-aofNS_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="198" />
+              <mxPoint x="500" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-5" value="F" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-6" target="tGrDaMTkJtFOG-aofNS_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-6" value="B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="275" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-7" target="tGrDaMTkJtFOG-aofNS_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-7" value="G" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="55" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-8" target="tGrDaMTkJtFOG-aofNS_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-8" value="C" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="55" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-9" target="tGrDaMTkJtFOG-aofNS_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-9" value="H" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-10" value="Final" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-1" target="tGrDaMTkJtFOG-aofNS_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-25" value="&lt;br&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Camino&lt;/th&gt;&lt;th&gt;Duración PERT total&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Inicio → A → F → G → H → C → Final&lt;/td&gt;&lt;td&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5.8 + 7.0 + 5.0 + 7.0 + 8.0 = &lt;strong&gt;32.8&lt;/strong&gt; días&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Inicio → D → F → G → H → C → Final&lt;/td&gt;&lt;td&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 4.2 + 7.0 + 5.0 + 7.0 + 8.0 = 31.2 días&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Inicio → A → E → B → Final&lt;/td&gt;&lt;td&gt;5.8 + 8.0 + 6.2 = 20 días&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="590" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.1;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tGrDaMTkJtFOG-aofNS_-2" target="tGrDaMTkJtFOG-aofNS_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="227" y="190" />
+              <mxPoint x="299" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGrDaMTkJtFOG-aofNS_-27" value="&lt;strong data-end=&quot;2120&quot; data-start=&quot;2104&quot;&gt;Ruta Crítica&lt;/strong&gt;:&lt;br data-end=&quot;2124&quot; data-start=&quot;2121&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;2162&quot; data-start=&quot;2124&quot;&gt;Inicio → A → F → G → H → C → Final&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="330" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
